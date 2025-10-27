@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "visual@kosmos-pi.org",
+                "Name": "KosmOS Visual Team"
+            }
+        ],
+        "Category": "",
+        "Description": "KosmOS Dark Look and Feel",
+        "Id": "org.kosmos-pi.dark.desktop",
+        "License": "GPLv2+",
+        "Name": "KosmOS Dark",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "1.0",
+        "Website": "https://www.kosmos-pi.org"
+    },
+    "X-Plasma-MainScript": "defaults"
+}

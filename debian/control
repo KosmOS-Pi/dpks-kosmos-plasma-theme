@@ -1,0 +1,16 @@
+Source: kosmos-plasma-theme
+Section: kde
+Priority: optional
+Maintainer: Matteo Piscitelli <matteo@matteopiscitelli.it>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.5.1
+Homepage: https://kosmos-pi.org
+Rules-Requires-Root: no
+
+Package: kosmos-plasma-theme
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: KosmOS look and feel package for KDE Plasma.
+ This package contains KosmOS-customized look and feel stuff
+ for KDE Plasma Desktop.

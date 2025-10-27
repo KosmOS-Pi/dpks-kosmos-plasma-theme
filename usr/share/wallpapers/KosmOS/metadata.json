@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "matteo@matteopiscitelli.it",
+                "Name": "Matteo Piscitelli"
+            }
+        ],
+        "Id": "KosmOS",
+        "License": "CC-BY-SA-4.0",
+        "Name": "KosmOS"
+    },
+    "X-KDE-PlasmaImageWallpaper-AccentColor": {
+        "Dark": "#5e0000",
+        "Light": "#5d8cba"
+    }
+}

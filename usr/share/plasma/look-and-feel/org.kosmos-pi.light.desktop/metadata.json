@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "visual@kosmos-pi.org",
+                "Name": "KosmOS Visual Team"
+            }
+        ],
+        "Category": "",
+        "Description": "KosmOS Light Look and Feel",
+        "Id": "org.kosmos-pi.light.desktop",
+        "License": "GPLv2+",
+        "Name": "KosmOS Light",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "1.0",
+        "Website": "https://www.kosmos-pi.org"
+    },
+    "X-Plasma-MainScript": "defaults"
+}

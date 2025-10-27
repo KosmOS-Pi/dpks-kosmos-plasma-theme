@@ -1,0 +1,27 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: kosmos-plasma-theme
+Upstream-Contact: info@kosmos-pi.org
+Source: https://github.com/KosmOS-Pi/dpkg-kosmos-plasma-theme
+
+Files:     *
+Copyright: KDE Visual Design Group <plasma-devel@kde.org>
+           Matteo Piscitelli <matteo@matteopiscitelli.it>
+License:   GPL-v2.0+
+
+Files:     debian/*
+Copyright: Matteo Piscitelli <matteo@matteopiscitelli.it>
+License:   GPL-v3.0+
+
+Files:     usr/share/plasma/look-and-feel/org.kosmos-pi.dark.desktop/contents/previews/fullscreenpreview.jpg
+           usr/share/plasma/look-and-feel/org.kosmos-pi.dark.desktop/contents/previews/preview.png
+           usr/share/plasma/look-and-feel/org.kosmos-pi.light.desktop/contents/previews/fullscreenpreview.jpg
+           usr/share/plasma/look-and-feel/org.kosmos-pi.light.desktop/contents/previews/preview.png
+           usr/share/wallpapers/KosmOS/contents/images/*.png
+           usr/share/wallpapers/KosmOS/contents/images_dark/*.png
+           usr/share/wallpapers/KosmOS/contents/screenshot.png
+           usr/share/wallpapers/KosmOS-flat/contents/images/*.png
+           usr/share/wallpapers/KosmOS-flat/contents/images_dark/*.png
+           usr/share/wallpapers/KosmOS-flat/contents/screenshot.png
+Copyright: Matteo Piscitelli <matteo@matteopiscitelli.it>
+License:   CC-BY-SA-4.0
+
