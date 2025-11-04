@@ -1,3 +1,9 @@
+kosmos-plasma-theme (1.2-1) bookworm; urgency=medium
+
+  * Add icon theme for kickoff (start button).
+
+ -- Matteo Piscitelli <matteo@matteopiscitelli.it>  Tue, 04 Nov 2025 14:43:03 +0000
+
 kosmos-plasma-theme (1.1-1) bookworm; urgency=low
 
   * Add themeing for sddm.

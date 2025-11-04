@@ -5,7 +5,7 @@ widgetStyle=Fusion
 ColorScheme=BreezeLight
 
 [kdeglobals][Icons]
-Theme=breeze-light
+Theme=KosmOS
 
 [plasmarc][Theme]
 name=default
